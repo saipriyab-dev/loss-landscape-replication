@@ -88,8 +88,9 @@ This is a 6-week part-time research project. See `writeup/timeline.md` for weekl
 
 This is an independent research project conducted as part of a public portfolio. The author has a background in software engineering and data analytics and is studying numerical methods, optimization, and the mathematical foundations of deep learning.
 
-Project site: [your portfolio URL]
-Companion writeup: [your blog URL]
+Author: Saipriya Bethi
+Location: Dallas, TX
+Contact: saipriyab.3009@gmail.com
 
 ## License
 
