@@ -1,0 +1,13 @@
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+models/*.pt
+models/*.pth
+*.h5
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
